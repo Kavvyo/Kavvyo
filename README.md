@@ -6,7 +6,6 @@
 
 <p align="left">
 Hi there! I'm an undergraduate student in <strong>Software Engineering</strong> from <strong>Sri Lanka</strong>. I'm passionate about building impactful software solutions and continuously expanding my technical skills.<br><br>
-I'm currently working on a <strong>real-time chat web application</strong> using the <strong>MERN stack</strong> (MongoDB, Express.js, React, Node.js), focusing on real-time messaging with <strong>Socket.IO</strong> and responsive user interface design.<br><br>
 In addition to web development, I'm deeply interested in <strong>Deep Learning</strong>, especially its applications in computer vision, natural language processing, and generative AI. I'm currently exploring frameworks like <strong>PyTorch</strong> and <strong>TensorFlow</strong>, and learning how to implement and train neural networks from scratch.<br><br>
 I enjoy working on full-stack projects, experimenting with machine learning models, and contributing to open source when I can.<br><br>
 Feel free to explore my projects or connect with me if you're interested in collaboration or discussion on tech topics!
